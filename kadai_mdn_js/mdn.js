@@ -1,6 +1,5 @@
 // 現在のタイムスタンプを取得
 const now = new Date(); // 引数なし -> インスタンス化時点の日付と時刻
-console.log(now.value);
 
 // 年月日を取得
 const year = now.getFullYear();
